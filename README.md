@@ -1,4 +1,4 @@
-# PowerBI & R Examples from PASS Summit
+# Power BI & R Examples from PASS Summit
 
 At PASS Summit 2017, @PatrickDBA and @MrDataGeek gave a presentation demostrating how ways to perform
 data wrangling tasks using both Power Query (M) & R. In this repo you will find a RTVS solution that 
@@ -33,4 +33,4 @@ used to build the model. I chose the best of 7 models to use in the demostration
 included the script that showed how I built the model was to show that even in simple models a lot of prep work
 and data wrangling is needed to build predictive models.
 
-Here is a link to data sets and Power BI files: [Nesta CMS](https://dieselanalytics-my.sharepoint.com/personal/rwade_dieselanalytics_com/_layouts/15/guestaccess.aspx?folderid=056cf1f64c8064b4da059de5d18f9297d&authkey=AcWmsNF7-nDtoFvdmr7ku9s&e=1f3477bf15e746468518b91a8cc35a26)
+Here is a link to data sets and Power BI files: [Data & Power BI files](https://dieselanalytics-my.sharepoint.com/personal/rwade_dieselanalytics_com/_layouts/15/guestaccess.aspx?folderid=056cf1f64c8064b4da059de5d18f9297d&authkey=AcWmsNF7-nDtoFvdmr7ku9s&e=1f3477bf15e746468518b91a8cc35a26)
