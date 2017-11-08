@@ -2,7 +2,7 @@
 
 At PASS Summit 2017, @PatrickDBA and @MrDataGeek gave a presentation demonstrating ways to perform data wrangling tasks using both Power Query (M) & R. In this repo you will find a RTVS solution that contains 6 projects. Here is a brief description of each of those projects:
 
-* **Advance Calculation**:  Since R is a language developed by statisticians for statisticiansq it lends itself to math very easily. In this example I showed how you can use R to perform calculations such as calculating the distance between 2 geographical points. This calculation would be much harder to do in M. You can also see this being used in the PowerBI_And_R_Examples pbix file in which I called R from GetData to performed the same calculation.
+* **Advance Calculation**:  Since R is a language developed by statisticians for statisticians it lends itself to math very easily. In this example I showed how you can use R to perform calculations such as calculating the distance between 2 geographical points. This calculation would be much harder to do in M. You can also see this being used in the PowerBI_And_R_Examples pbix file in which I called R from GetData to performed the same calculation.
 
 * **Combining Multiple Files**: In this example I show how the data.table package can be used to combine multiple files in an efficient way. I also gave examples of how you can leverage regular expression in R to be more selective with the files you want to combine.
 
