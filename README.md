@@ -14,7 +14,7 @@ At PASS Summit 2017, @PatrickDBA and @MrDataGeek gave a presentation demonstrati
 
 * **Predict Games**: In this example I showed how you can use a R model saved to disk to score data then bring the resulting data set to your Power BI data model. For fun I develop a logistic regression model that predicted home team wins based on data from the 2008-2009 NBA basketball season. I included the script that was used to build the model. I chose the best of 7 models. Part of the reason why I included the script used to develop the model was to show that even simple models involves a lot of prep work and data wrangling to get your data in the proper shape for your predictive models.
 
-Here is a link to data sets and Power BI files: [Data & Power BI files](https://dieselanalytics-my.sharepoint.com/personal/rwade_dieselanalytics_com/_layouts/15/guestaccess.aspx?folderid=056cf1f64c8064b4da059de5d18f9297d&authkey=AcWmsNF7-nDtoFvdmr7ku9s&e=1f3477bf15e746468518b91a8cc35a26). I will update the documentation to give a much more detailed explanation of the examples listed. I think the "Cusome Visual" example as well as the "Predict Games" example needs verbose explanations in order to get important points across.
+Here is a link to data sets and Power BI files: [Data & Power BI files](https://dieselanalytics-my.sharepoint.com/personal/rwade_dieselanalytics_com/_layouts/15/guestaccess.aspx?folderid=056cf1f64c8064b4da059de5d18f9297d&authkey=AcWmsNF7-nDtoFvdmr7ku9s&e=1f3477bf15e746468518b91a8cc35a26). I will update the documentation to give a much more detailed explanation of the examples listed. I think the "Custome Visual" example as well as the "Predict Games" example needs verbose explanations in order to get important points across.
 
 Best Regards,
 
